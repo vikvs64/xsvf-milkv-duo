@@ -8,7 +8,7 @@ Sources for MilkV-Duo RISC-V [board](https://milkv.io/duo) based on Clifford Wol
 1. Setup: source envsetup.sh
 1. Build: make
 1. Copy executible file to the MilkV board by scp: make scp
-1. start application and enjoy!
+1. Start application and enjoy!
    
 ## How to get Linux image for MilkV-Duo and boot
 
@@ -19,6 +19,4 @@ See instruction here: [https://milkv.io/docs/duo/getting-started/boot](https://m
 
 ## Known bugs
 
-Error executing RUNTEST ... SEC command.
-
-Pls., comment this line in the .svf file
+Error executing RUNTEST ... SEC command. Workaround: comment this line in your .svf file
