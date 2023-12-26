@@ -19,4 +19,4 @@ See instruction here: [https://milkv.io/docs/duo/getting-started/boot](https://m
 
 ## Known bugs
 
-Error executing RUNTEST ... SEC command. Workaround: comment this line in your .svf file
+Error executing RUNTEST ... SEC command. Work around: Comment this line in your .svf file
