@@ -16,3 +16,9 @@ See instruction here [https://milkv.io/docs/duo/getting-started/boot](https://mi
 
 ## Prototype
 ![xvc21c.jpeg](xvc21c.jpeg)
+
+## Known bugs
+
+Error executing RUNTEST ... SEC command.
+
+Pls., comment this line in the .svf file
