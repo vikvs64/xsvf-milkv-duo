@@ -6,7 +6,7 @@ Sources for MilkV-Duo RISC-V [board](https://milkv.io/duo) based on Clifford Wol
 
 1. Get toolchain and examples: git clone https://github.com/milkv-duo/duo-examples.git
 1. Setup: source envsetup.sh
-1. Build: Make
+1. Build: make
 1. Copy executible file to the MilkV board by scp: make scp
 1. start application and enjoy!
    
