@@ -1,6 +1,5 @@
-# xsvf-milkv-duo
-Xilnx (X)SVF player sources for MilkV-Duo RISC-V system
-Based on Xilinx XAPP1251 port for MilkV-Duo RISC-V [board](https://milkv.io/duo)
+# Xilnx (X)SVF player for MilkV-Duo RISC-V system
+Sources for MilkV-Duo RISC-V [board](https://milkv.io/duo) based on Clifford Wolf's <clifford@clifford.at> sources and [libxsvf repo](https://github.com/ORSoC/libxsvf)
 
 ![image.png](image.png)
 ## How to build
