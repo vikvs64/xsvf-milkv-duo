@@ -16,4 +16,4 @@ Based on Xilinx XAPP1251 port for MilkV-Duo RISC-V [board](https://milkv.io/duo)
 See instruction here [https://milkv.io/docs/duo/getting-started/boot](https://milkv.io/docs/duo/getting-started/boot)
 
 ## Prototype
-![xvc21c.jpeg](xvc2c.jpeg)
+![xvc21c.jpeg](xvc21c.jpeg)
