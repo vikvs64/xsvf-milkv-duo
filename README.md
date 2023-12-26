@@ -12,7 +12,7 @@ Sources for MilkV-Duo RISC-V [board](https://milkv.io/duo) based on Clifford Wol
    
 ## How to get Linux image for MilkV-Duo and boot
 
-See instruction here [https://milkv.io/docs/duo/getting-started/boot](https://milkv.io/docs/duo/getting-started/boot)
+See instruction here: [https://milkv.io/docs/duo/getting-started/boot](https://milkv.io/docs/duo/getting-started/boot)
 
 ## Prototype
 ![xvc21c.jpeg](xvc21c.jpeg)
